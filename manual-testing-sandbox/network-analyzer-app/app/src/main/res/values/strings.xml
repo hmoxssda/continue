@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Network Analyzer</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+    <string name="no_requests">No requests captured yet.</string>
+    <string name="filter_hint">Filter by URL, method, or status</string>
+    <string name="replay">Replay</string>
+    <string name="extract_variables">Extract Variables</string>
+</resources>
